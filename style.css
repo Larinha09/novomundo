@@ -12,6 +12,7 @@ h1{
 }
 body{
     background-image: url(image.png.png);
+    backdrop-filter:blur(5px);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -78,8 +79,4 @@ nav ul li:hover .sub-menu-1 ul li:hover{
   margin-left: 140px;
  background-color: #019BB6;
 
-}
-
-.cortexto{
-    color:rgb(189, 207, 20)
 }
