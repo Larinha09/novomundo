@@ -17,6 +17,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     min-height: 100vh;
+    
    
 }
 
@@ -79,4 +80,9 @@ nav ul li:hover .sub-menu-1 ul li:hover{
   margin-left: 140px;
  background-color: #019BB6;
 
+}
+
+.textocor{
+
+    color: aliceblue;
 }
